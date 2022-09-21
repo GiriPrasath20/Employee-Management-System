@@ -1,0 +1,3 @@
+python	5	giri
+java	3	giiri
+java	5	girii
